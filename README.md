@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @WebDevGamer2011
+- 👋 Hi, I’m Aaryan Nair
 - 👀 I’m interested in Html, Css, Javascript and Python
 - 🌱 I’m currently learning Javascript and Python
-- 📫 If you would like to get in touch you can DM me on discord: ▄︻┻ ʕ•̫͡•ʔ Aaryan ʕ•̫͡•ʔ#3612 or email me: defaaryan@gmail.com
+- 📫 If you would like to get in touch you can DM me on discord: ʕ•̫͡•ʔ 𝓐𝓪𝓻𝔂𝓪𝓷𝟙𝟡𝟚𝟚𝟚#3612 or email me: defaaryan@gmail.com
+- (ﾉ◕ヮ◕)ﾉ If you would like some teach related freelancing Dm me on discord: ʕ•̫͡•ʔ 𝓐𝓪𝓻𝔂𝓪𝓷𝟙𝟡𝟚𝟚𝟚#3612
