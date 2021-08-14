@@ -1,6 +1,6 @@
 Some facts about me:
 
-**I like coding.** <p><img align="right" src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Pepecoding.gif" width="500" height="320" /></p>
+**I like coding.** <p><img align="right" src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Pepecoding.gif" /></p>
 🎵 I play the piano
 🎾 I like tennis.
 
