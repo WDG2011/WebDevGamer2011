@@ -1,8 +1,8 @@
-Hello, I am Aaryan <p> <img src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Wave.gif" width="100" height="50"/> </p>
+Hello, I am Aaryan <p> <img src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Wave.gif" width="100" height="50" /> </p>
 
 Some facts about me:
 
-**I like coding.** <p><img src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Pepecoding.gif" /></p>
+**I like coding.** <p> <img src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Pepecoding.gif" width="100" height="50" /> </p>
 🎵 I play the piano <p> <img src="" /></p>
 🎾 I like tennis.
 
