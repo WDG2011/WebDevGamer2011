@@ -1,5 +1,16 @@
-- 👋 Hi, I’m Aaryan Nair
-- 👀 I’m interested in Html, Css, Javascript and Python
-- 🌱 I’m currently learning Javascript and Python
-- 📫 If you would like to get in touch you can DM me on discord: ʕ•̫͡•ʔ 𝓐𝓪𝓻𝔂𝓪𝓷𝟙𝟡𝟚𝟚𝟚#3612 or email me: defaaryan@gmail.com
-- (ﾉ◕ヮ◕)ﾉ If you would like some teach related freelancing Dm me on discord: ʕ•̫͡•ʔ 𝓐𝓪𝓻𝔂𝓪𝓷𝟙𝟡𝟚𝟚𝟚#3612
+Some facts about me
+🎵 I play the piano
+🎾 I like tennis.
+
+Some of my favourite repos:
+Visualized Sorting (A visualization for different sorting methods) https://github.com/WebDevGamer2011/Google-Maps-API
+A* Pathfinding (A demo of the A* Pathfinding algorithm)
+Langton's Ant Visualization (An interactive simulation for the turing machine "Langton's Ant")
+My Github Stats:
+
+
+Languages I Use:
+
+
+Contact me:
+My Discord ID is Plebus Supremus#4334
