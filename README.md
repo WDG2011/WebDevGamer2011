@@ -7,16 +7,16 @@
 -   🎾 I like tennis.
 
 ### Some of my favourite repos:
--   [Using the Google Maps API](https://github.com/WebDevGamer2011/Google-Maps-API)
+-   [Using the Google Maps API](https://github.com/WebDevGamer2011/Google-Maps-API) (First time using the Google Maps API)
 -   [Making a game in Javascript](https://github.com/WebDevGamer2011/Js-Game) (My first JS game.)
 -   [A discord Bot](https://github.com/PlebusSupremus1234/Langtons-Ant) (Me and octagonemusic made this bot. ")
 
 ### My Github Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=PlebusSupremus1234&show_icons=true&locale=en&theme=default&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=WebDevGamer2011&show_icons=true&locale=en&theme=default&layout=compact">
 
 ### Languages I Use:
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PlebusSupremus1234&show_icons=true&locale=en&layout=compact&theme=default">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=WebDevGamer2011&show_icons=true&locale=en&layout=compact&theme=default">
 
 ### Contact me:
--   My Discord ID is Plebus Supremus#4334
+-   My Discord ID is Aaryan19222#3612
 
