@@ -1,4 +1,4 @@
-Hello, I am Aaryan <p> <img src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Wave.gif" width="200" height="100"/> </p>
+Hello, I am Aaryan <p> <img align="right" src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Wave.gif" width="200" height="100"/> </p>
 
 Some facts about me:
 
