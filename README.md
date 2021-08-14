@@ -7,7 +7,7 @@
 -   🎾 I like tennis.
 
 ### Some of my favourite repos:
--   [Using the Google Maps API]: https://github.com/WebDevGamer2011/Google-Maps-API]
+-   [Using the Google Maps API](https://github.com/WebDevGamer2011/Google-Maps-API)
 -   [A* Pathfinding](https://github.com/PlebusSupremus1234/A-Star-Pathfinding) (A demo of the A* Pathfinding algorithm)
 -   [Langton's Ant Visualization](https://github.com/PlebusSupremus1234/Langtons-Ant) (An interactive simulation for the turing machine "Langton's Ant")
 
