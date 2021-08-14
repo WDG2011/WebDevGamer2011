@@ -9,7 +9,7 @@
 ### Some of my favourite repos:
 -   [Using the Google Maps API](https://github.com/WebDevGamer2011/Google-Maps-API)
 -   [Making a game in Javascript](https://github.com/WebDevGamer2011/Js-Game) (A demo of the A* Pathfinding algorithm)
--   [Langton's Ant Visualization](https://github.com/PlebusSupremus1234/Langtons-Ant) (An interactive simulation for the turing machine "Langton's Ant")
+-   [](https://github.com/PlebusSupremus1234/Langtons-Ant) (An interactive simulation for the turing machine "Langton's Ant")
 
 ### My Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=PlebusSupremus1234&show_icons=true&locale=en&theme=default&layout=compact">
