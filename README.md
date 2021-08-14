@@ -1,9 +1,9 @@
-Hello, I am Aaryan https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Wave.gif
+Hello, I am Aaryan <p> <img src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Wave.gif" /> </p>
 
 Some facts about me:
 
 **I like coding.** <p><img src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Pepecoding.gif" /></p>
-🎵 I play the piano <p> <img src="https://github.com/WebDevGamer2011/WebDevGamer2011/blob/main/Pepecoding.gif" /></p>
+🎵 I play the piano <p> <img src="" /></p>
 🎾 I like tennis.
 
 Repos that I am proud of:
