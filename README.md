@@ -9,7 +9,7 @@
 ### Some of my favourite repos:
 -   [Using the Google Maps API](https://github.com/WebDevGamer2011/Google-Maps-API) (First time using the Google Maps API)
 -   [Making a game in Javascript](https://github.com/WebDevGamer2011/Js-Game) (My first JS game.)
--   [A discord Bot](https://github.com/PlebusSupremus1234/Langtons-Ant) (Me and octagonemusic made this bot!)
+-   [A Discord Bot](https://github.com/PlebusSupremus1234/Langtons-Ant) (Me and octagonemusic made this bot!)
 
 ### My Github Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=WebDevGamer2011&show_icons=true&locale=en&theme=default&layout=compact">
